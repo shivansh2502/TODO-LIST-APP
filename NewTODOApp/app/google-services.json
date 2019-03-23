@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "305927369513",
+    "firebase_url": "https://newtodoapp-d3e57.firebaseio.com",
+    "project_id": "newtodoapp-d3e57",
+    "storage_bucket": "newtodoapp-d3e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305927369513:android:e7637db21b17542e",
+        "android_client_info": {
+          "package_name": "com.example.newtodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305927369513-n11962lo4c1kdng4h85gg0cbmt505b9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newtodoapp",
+            "certificate_hash": "a7396dac24ec9b9845123667f5be73b69a6264e9"
+          }
+        },
+        {
+          "client_id": "305927369513-fn9i13le04nm6lnfiep8e4pvbmhnvklp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ4Mp33kMIEXeBGX3ALw9hMUHowl9G8QQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305927369513-fn9i13le04nm6lnfiep8e4pvbmhnvklp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
